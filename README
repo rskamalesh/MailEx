@@ -1,3 +1,3 @@
  Install Java Mail 1.4.2 manually.
  ---------------------------------
- mvn install:install-file -DgroupId=javax.mail -DartifactId=mail -Dversion=1.4.2 -Dpackaging=jar -Dfile=c:\Users\venkatrs.CORPORATE\Downloads\javamail-1.4.2\mail.jar
+ mvn install:install-file -DgroupId=javax.mail -DartifactId=mail -Dversion=1.4.2 -Dpackaging=jar -Dfile=c:\Downloads\javamail-1.4.2\mail.jar
