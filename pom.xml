@@ -14,7 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-	<dependency>
+	<dependency> <!-- has to be manually installed for now as 1.4.2 is missing in maven repo -->
 	  <groupId>javax.mail</groupId>
 	  <artifactId>mail</artifactId>
 	  <version>1.4.2</version>
